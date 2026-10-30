@@ -1,6 +1,6 @@
 # Patches
 
-> Generated from `patches-list.json` — **v1.23.1** (`main`) · **317 patches** across **227 apps** · back to [README](README.md)
+> Generated from `patches-list.json` — **v1.0.0** (`main`) · **317 patches** across **227 apps** · back to [README](README.md)
 
 ---
 
@@ -447,7 +447,7 @@
 
 | Patch | Details |
 |---|---|
-| **Unlock SVIP** | Unlocks SViP features in app. |
+| **Unlock SVIP** | Unlocks SViP features. Hardened: drops server-validated sign to avoid post-login exit. |
 
 ---
 
