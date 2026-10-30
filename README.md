@@ -427,5 +427,3 @@ Thanks to:
 ## 📜 License
 
 Rushi's Morphe Patches are licensed under the [GNU General Public License v3.0](LICENSE)   
-
-
